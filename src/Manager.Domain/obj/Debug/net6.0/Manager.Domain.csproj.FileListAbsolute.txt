@@ -1,0 +1,12 @@
+C:\Users\Computador\Desktop\Escola_api\src\Manager.Domain\obj\Debug\net6.0\Manager.Domain.csproj.AssemblyReference.cache
+C:\Users\Computador\Desktop\Escola_api\src\Manager.Domain\obj\Debug\net6.0\Manager.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Computador\Desktop\Escola_api\src\Manager.Domain\obj\Debug\net6.0\Manager.Domain.AssemblyInfoInputs.cache
+C:\Users\Computador\Desktop\Escola_api\src\Manager.Domain\obj\Debug\net6.0\Manager.Domain.AssemblyInfo.cs
+C:\Users\Computador\Desktop\Escola_api\src\Manager.Domain\obj\Debug\net6.0\Manager.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Computador\Desktop\Escola_api\src\Manager.Domain\bin\Debug\net6.0\Manager.Domain.deps.json
+C:\Users\Computador\Desktop\Escola_api\src\Manager.Domain\bin\Debug\net6.0\Manager.Domain.dll
+C:\Users\Computador\Desktop\Escola_api\src\Manager.Domain\bin\Debug\net6.0\ref\Manager.Domain.dll
+C:\Users\Computador\Desktop\Escola_api\src\Manager.Domain\bin\Debug\net6.0\Manager.Domain.pdb
+C:\Users\Computador\Desktop\Escola_api\src\Manager.Domain\obj\Debug\net6.0\Manager.Domain.dll
+C:\Users\Computador\Desktop\Escola_api\src\Manager.Domain\obj\Debug\net6.0\ref\Manager.Domain.dll
+C:\Users\Computador\Desktop\Escola_api\src\Manager.Domain\obj\Debug\net6.0\Manager.Domain.pdb
